@@ -12,10 +12,10 @@ Komponen yang digunakan:
 - LED dan Buzzer
 
 Breadboard diagram:
-![breadboard diagram image](https://github.com/raflynagachi/Smart-Parking-System/blob/main/parking-system_bb.png?raw=true)
+![breadboard diagram image](https://github.com/raflynagachi/Smart-Parking-System/blob/main/foto/parking-system_bb.png?raw=true)
 
 Adafruit Web UI:
-![adafruit UI image](https://github.com/raflynagachi/Smart-Parking-System/blob/main/adafruitWeb.png?raw=true)
+![adafruit UI image](https://github.com/raflynagachi/Smart-Parking-System/blob/main/foto/adafruitWeb.png?raw=true)
 
 Other contributors:
 - https://github.com/lailanoerr
